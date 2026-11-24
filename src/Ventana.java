@@ -17,6 +17,21 @@ public class Ventana {
     private JSpinner spnAnioLanzamiento;
     private JButton btnRegistrar;
     private JPanel Ventana;
+    private JTextField txtBuscar;
+    private JTextArea txtAreaBuscar;
+    private JTextField txtNombreEditar;
+    private JTextField txtEstudioEfditar;
+    private JComboBox cbxCategoriaEditar;
+    private JSpinner spnAnioEditar;
+    private JButton btnEditarDatos;
+    private JButton btnEliminar;
+    private JButton btnBuscar;
+    private JLabel lblCodigoBuscar;
+    private JLabel lblEditarDatos;
+    private JLabel lblNombreEditar;
+    private JLabel lblEstudioEditar;
+    private JLabel lblCategoriaEditar;
+    private JLabel lblAnioEditar;
 
 
     public Ventana() {
