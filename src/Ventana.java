@@ -32,6 +32,7 @@ public class Ventana {
     private JLabel lblEstudioEditar;
     private JLabel lblCategoriaEditar;
     private JLabel lblAnioEditar;
+    private JList list1;
 
 
     public Ventana() {
