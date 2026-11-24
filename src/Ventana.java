@@ -33,6 +33,8 @@ public class Ventana {
     private JLabel lblCategoriaEditar;
     private JLabel lblAnioEditar;
     private JList list1;
+    private JSpinner spnRestarVotos;
+    private JButton btnRestarVotos;
 
 
     public Ventana() {
